@@ -1,4 +1,4 @@
-currentnumber = 2#                       [won't be accurate if you try starting form a higher number.]
+currentnumber = 2#                       [won't be accurate if you try starting from a higher number.]
 prime1 = 2                            
 prime2 = 0                      
 prime3 = 0
