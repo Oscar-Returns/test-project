@@ -1,3 +1,3 @@
 # test-project
 test
-v 0.2.1
+v 0.3b
