@@ -1,0 +1,5 @@
+print(". \t .\n     >\n", "_"*8)
+print("*\t*\n *     *\n  *   *\n   * *\n    *\n   * *\n  *   *\n *     *\n*\t*")
+print(" ^\n/__\\")
+print(" **\n*  *\n*  *\n **")
+print("\t ***\n        *   *\n       *     *\n        *   *\n\t ***\n")
